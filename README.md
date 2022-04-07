@@ -50,6 +50,10 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 Hasilnya
 ![image](https://user-images.githubusercontent.com/101807419/162260941-73b628cf-7b09-48ca-95cd-5f0e886b88d6.png)
 
+### Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![image](https://user-images.githubusercontent.com/101807419/162262305-2932cf95-97e8-44bf-bf7f-9360e61c9575.png)
 
 
 
