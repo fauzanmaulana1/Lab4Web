@@ -30,6 +30,8 @@ Kemudian buka browser dan lihat hasilnya.
 
 ### kode CSS untuk membuat layoutnya.
 ![image](https://user-images.githubusercontent.com/101807419/162256621-fc1086e7-1800-4c86-8c24-14679d80c04a.png)
+![image](https://user-images.githubusercontent.com/101807419/162256923-17f2dc5c-5f67-4964-a42b-4c28c8f5516d.png)
+
 
 
 
