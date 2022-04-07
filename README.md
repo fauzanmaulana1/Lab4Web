@@ -102,10 +102,14 @@ Hasil dibrowser
 Hasil dibrowser
 ![image](https://user-images.githubusercontent.com/101807419/162273580-30ec8673-f826-45e4-9799-dde7dbab305a.png)
 
-# ambahkan layout untuk menu Contact
+# Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll jawab
 
 ### Membuat dokumen HTML dengann nama file kontak.html
+![image](https://user-images.githubusercontent.com/101807419/162276062-a7b13dd5-e9ad-4b35-b27b-037862063204.png)
+![image](https://user-images.githubusercontent.com/101807419/162276453-ea0a4654-cf12-4450-b81f-17b2aad84c8a.png)
+
+
 
 
 
