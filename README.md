@@ -35,6 +35,8 @@ Kemudian buka browser dan lihat hasilnya.
 hasilnya pada browser.
 ![image](https://user-images.githubusercontent.com/101807419/162257236-39d21ac8-da33-4e6f-9b62-cd43c6c6e8d3.png)
 
+### Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi.
 
 
 
