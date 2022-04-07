@@ -22,6 +22,7 @@ Selanjutnya buka browser dan refresh kembali.
 ![1](https://user-images.githubusercontent.com/101807419/162215238-eba538b4-5f11-4baf-b81d-a3cb9374da34.png)
 
 ### folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
+![1](https://user-images.githubusercontent.com/101807419/162251697-23ba05b5-0832-4e5a-ad73-6a223ea98741.png)
 
 
 
