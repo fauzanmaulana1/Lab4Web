@@ -88,7 +88,12 @@ Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 Kemudian tambahkan CSS.
 ![image](https://user-images.githubusercontent.com/101807419/162267611-ac5f55ad-b15f-4b61-afa9-3a8d8997c5fe.png)
 
+Hasil dibrowser
+![image](https://user-images.githubusercontent.com/101807419/162269826-65052f04-8287-4a2c-b261-4942b1d10b0b.png)
 
+# Pertanyaan dan Tugas.
+### Tambahkan Layout untuk menu About
+- buat single layout yang berisi deskripsi, portfolio, dll. jawab
 
 
 
