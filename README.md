@@ -33,6 +33,7 @@ Kemudian buka browser dan lihat hasilnya.
 ![image](https://user-images.githubusercontent.com/101807419/162256923-17f2dc5c-5f67-4964-a42b-4c28c8f5516d.png)
 
 hasilnya pada browser.
+![image](https://user-images.githubusercontent.com/101807419/162257236-39d21ac8-da33-4e6f-9b62-cd43c6c6e8d3.png)
 
 
 
