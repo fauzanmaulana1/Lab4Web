@@ -1,8 +1,8 @@
 # Leb4Web
-
+<img src="fauzan - Copy.JPG" title="FAUZAN MAULANA" alt="FAUZAN MAULANA" class="120px" width="130px">
 # Fauzan Maulana 
 # 312010115
-# TI.20.D.1<img src="fauzan - Copy.JPG" title="FAUZAN MAULANA" alt="FAUZAN MAULANA" class="120px" width="130px">
+# TI.20.D.1
 
 ### Persiapan membuat documents HTML dengan nama file Lab4_box.html
 ![image](https://user-images.githubusercontent.com/101807419/162207000-32b1255f-f79d-4f90-8b26-062fd6417d94.png)
