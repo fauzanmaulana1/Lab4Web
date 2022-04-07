@@ -25,7 +25,7 @@ Selanjutnya buka browser dan refresh kembali.
 ![1](https://user-images.githubusercontent.com/101807419/162251697-23ba05b5-0832-4e5a-ad73-6a223ea98741.png)
 ![1](https://user-images.githubusercontent.com/101807419/162251963-5798b170-e4cf-465b-8ed3-59bdfbe59516.png)
 
-Kemudian buka browser dan hasilnya.
+Kemudian buka browser dan lihat hasilnya.
 
 
 
