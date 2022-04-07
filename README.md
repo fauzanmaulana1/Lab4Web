@@ -15,4 +15,6 @@ Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut
 Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
 ![1](https://user-images.githubusercontent.com/101807419/162211971-a3c9764f-65b5-456d-937f-46c6eefc9d71.png)
 
+Kemudian atur property clear pada CSS, seperti berikut.
+
 
