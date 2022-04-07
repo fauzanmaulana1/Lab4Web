@@ -28,6 +28,8 @@ Selanjutnya buka browser dan refresh kembali.
 Kemudian buka browser dan lihat hasilnya.
 ![image](https://user-images.githubusercontent.com/101807419/162252528-4a06477e-e619-4fdf-90bf-74677927c644.png)
 
+### kode CSS untuk membuat layoutnya.
+
 
 
 
