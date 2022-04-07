@@ -68,6 +68,27 @@ Hasilnya.
 
 ### Mengatur Footer
 Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+![image](https://user-images.githubusercontent.com/101807419/162264602-983f6137-262b-409a-b2ce-84f022d6f26a.png)
+
+### Menambahkan Elemen lainnya pada Main Content
+![image](https://user-images.githubusercontent.com/101807419/162264782-e37f6122-f5ad-4603-bbb7-78e4e8782530.png)
+![image](https://user-images.githubusercontent.com/101807419/162264856-12a34f3a-b84c-4cbe-82b5-483972cd5818.png)
+
+Kemudian tambahkan CSS.
+![image](https://user-images.githubusercontent.com/101807419/162265064-ebe5cec2-b1e4-4d9c-85e1-8091378c6c53.png)
+![image](https://user-images.githubusercontent.com/101807419/162265123-6deec833-6784-4f29-a5d6-726e7aa25f10.png)
+
+hasil dibrowser.
+![image](https://user-images.githubusercontent.com/101807419/162265281-3d91a002-891d-404f-a15f-9a3e95983111.png)
+
+### Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+![image](https://user-images.githubusercontent.com/101807419/162267195-ae0a9a0d-b70a-4e4e-a48e-b4380998f1f0.png)
+
+Kemudian tambahkan CSS.
+![image](https://user-images.githubusercontent.com/101807419/162267611-ac5f55ad-b15f-4b61-afa9-3a8d8997c5fe.png)
+
+
 
 
 
