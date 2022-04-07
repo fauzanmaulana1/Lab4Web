@@ -44,6 +44,7 @@ Kemudian lihat hasilnya.
 
 ### Membuat Hero Panel.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+![image](https://user-images.githubusercontent.com/101807419/162260537-6b38c126-9840-474f-afa0-f9f67faf2355.png)
 
 
 
