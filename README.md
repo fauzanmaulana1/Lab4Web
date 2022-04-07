@@ -55,6 +55,20 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
 ![image](https://user-images.githubusercontent.com/101807419/162262305-2932cf95-97e8-44bf-bf7f-9360e61c9575.png)
 
+### Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+![image](https://user-images.githubusercontent.com/101807419/162262628-1b7788a8-89d2-4461-830f-e1d54a9473e8.png)
+
+Kemudian tambahkan CSS.
+![image](https://user-images.githubusercontent.com/101807419/162262981-e7120d1c-e711-4d8d-80e9-0095d6a28e94.png)
+![image](https://user-images.githubusercontent.com/101807419/162263051-20bb79df-ae15-4ff0-a14d-97d99a14620f.png)
+
+Hasilnya. 
+![image](https://user-images.githubusercontent.com/101807419/162263324-fbcd4234-4120-4b29-873b-00330959ba82.png)
+
+### Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
 
 
 
