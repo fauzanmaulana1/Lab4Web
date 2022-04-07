@@ -19,6 +19,8 @@ Kemudian atur property clear pada CSS, seperti berikut.
 ![1](https://user-images.githubusercontent.com/101807419/162214815-9e64fa7c-0c30-4b7e-93d4-5a08eee70af4.png)
 
 Selanjutnya buka browser dan refresh kembali.
+![1](https://user-images.githubusercontent.com/101807419/162215238-eba538b4-5f11-4baf-b81d-a3cb9374da34.png)
+
 
 
 
