@@ -37,6 +37,7 @@ hasilnya pada browser.
 
 ### Membuat Navigasi
 Kemudian selanjutnya mengatur navigasi.
+![image](https://user-images.githubusercontent.com/101807419/162257579-e846f9fb-df1d-4a8a-b708-fc3b49a8ba0c.png)
 
 
 
