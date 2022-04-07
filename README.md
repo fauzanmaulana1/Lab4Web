@@ -29,6 +29,7 @@ Kemudian buka browser dan lihat hasilnya.
 ![image](https://user-images.githubusercontent.com/101807419/162252528-4a06477e-e619-4fdf-90bf-74677927c644.png)
 
 ### kode CSS untuk membuat layoutnya.
+![image](https://user-images.githubusercontent.com/101807419/162256621-fc1086e7-1800-4c86-8c24-14679d80c04a.png)
 
 
 
