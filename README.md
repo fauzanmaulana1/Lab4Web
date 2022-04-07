@@ -95,6 +95,8 @@ Hasil dibrowser
 ### Tambahkan Layout untuk menu About
 - buat single layout yang berisi deskripsi, portfolio, dll. jawab
 
+# Membuat dokumen HTML dengan nama file about.html.
+![image](https://user-images.githubusercontent.com/101807419/162273280-471aeb64-aa30-49aa-b3c4-b0753fa95cc2.png)
 
 
 
