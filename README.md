@@ -40,6 +40,10 @@ Kemudian selanjutnya mengatur navigasi.
 ![image](https://user-images.githubusercontent.com/101807419/162257579-e846f9fb-df1d-4a8a-b708-fc3b49a8ba0c.png)
 
 Kemudian lihat hasilnya.
+![image](https://user-images.githubusercontent.com/101807419/162257842-80f3157f-7bdb-40ac-9f0c-d59b06cc92f2.png)
+
+### Membuat Hero Panel.
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 
 
 
