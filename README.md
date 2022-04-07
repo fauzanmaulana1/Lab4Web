@@ -16,5 +16,7 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 ![1](https://user-images.githubusercontent.com/101807419/162211971-a3c9764f-65b5-456d-937f-46c6eefc9d71.png)
 
 Kemudian atur property clear pada CSS, seperti berikut.
+![1](https://user-images.githubusercontent.com/101807419/162214815-9e64fa7c-0c30-4b7e-93d4-5a08eee70af4.png)
+
 
 
